@@ -1,0 +1,9 @@
+[
+    {
+        "task_id": "task1",
+        "task_name": "Broken Task",
+        "interval_seconds": 5,
+        "enabled": true,
+        "entry_point": "unknown_func"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "task_id": "task1",
+        "task_name": "Hello Task",
+        "interval_seconds": 5,
+        "enabled": true,
+        "entry_point": "hello"
+    },
+    {
+        "task_id": "task2",
+        "task_name": "Cleanup Task",
+        "interval_seconds": 10,
+        "enabled": true,
+        "entry_point": "cleanup"
+    }
+]
